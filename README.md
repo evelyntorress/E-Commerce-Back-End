@@ -16,11 +16,10 @@ The following images shows the application's GET and POST routes being tested in
 ![In Insomnia, tests some of the routes. POST](./Assets/POST.png)
 
 
-
 ### Walkthrough Video:
 
  To see the video [click here](https://drive.google.com/file/d/1KhNkuJzXHh89IuPNzIuHcJ64J8k7rjKG/view)
 
+## Application
 
-
-
+Deployed site [click here](https://evelyntorress.github.io/didactic-funicular/)
